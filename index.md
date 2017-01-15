@@ -2,7 +2,7 @@
 
 ### Solutions Architect, Full Stack Developer, DevOps
 
-Especialista em desenvolvimento de software com grande vivência no mercado de telecomunicações, com experiência em grandes empresas e start ups, desenvolvimento de sistemas, DevOps, liderança técnica, consultoria e gestão de projetos.
+Especialista em desenvolvimento de software com grande vivência no mercado de telecomunicações, com experiência em grandes empresas e start ups, desenvolvimento de sistemas, liderança técnica, consultoria e gestão de projetos.
 
 Para visualizar meu perfil profissional veja [Linked In Profile](https://br.linkedin.com/in/adriano-oliveira/pt)
 
