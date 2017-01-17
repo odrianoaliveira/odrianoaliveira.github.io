@@ -1,6 +1,6 @@
 ## Adriano Oliveira
 
-### Solutions Architect, Full Stack Developer, DevOps
+### Full Stack Developer and DevOps
 
 Especialista em desenvolvimento de software com grande vivência no mercado de telecomunicações, com experiência em grandes empresas e start ups, desenvolvimento de sistemas, liderança técnica, consultoria e gestão de projetos.
 
@@ -13,10 +13,4 @@ Para visualizar meu perfil profissional veja [Linked In Profile](https://br.link
 - Analytics: Big Data, Data Blending, Visualization, Explorarion
 
 ```
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-
+adriano.tech
