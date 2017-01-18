@@ -10,7 +10,7 @@ Para visualizar meu perfil profissional veja [Linked In Profile](https://br.link
 - Languages: Java, Javascript, Swift, Puython, C++, Bash, Tcl/Tk
 - Cloud: Google Container Engine, Google Registry, Kubernetes and Docker
 - Business: Billing, CRM, Risk Management
-- Analytics: Big Data, Data Blending, Visualization, Explorarion
+- Analytics: Big Data, Data: Blending, Exploration and Visualization
 
 ```
 adriano.tech
